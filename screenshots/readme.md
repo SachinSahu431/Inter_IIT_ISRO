@@ -1,10 +1,8 @@
-![Photo](./screenshots/overview.png)
-<!-- ![Photo](./screenshots/homePage.png) -->
-<!-- ![Photo](./screenshots/homePage2.png) -->
-![Photo](./screenshots/fileUpload.png)
-![Photo](./screenshots/graph.png)
-![Photo](./screenshots/graph_zoomed.png)
-![Photo](./screenshots/result.png)
-![Photo](./screenshots/result2.png)
-![Photo](./screenshots/processedData.png)
-![Photo](./screenshots/details.png)
+![Photo](./overview.png)
+![Photo](./fileUpload.png)
+![Photo](./graph.png)
+![Photo](./graph_zoomed.png)
+![Photo](./result.png)
+![Photo](./result2.png)
+![Photo](./processedData.png)
+![Photo](./details.png)
