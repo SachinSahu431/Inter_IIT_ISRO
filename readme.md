@@ -77,6 +77,12 @@ Interface will be live at http://localhost:3000/
 
 ---
 
+## Sample file for testing purpose
+Use this file to upload and visulalize the X-ray data :
+[sample_file_ch2_xsm_20211111_v1_level2.lc](https://github.com/SachinSahu431/Inter_IIT_ISRO/blob/main/sample_file_ch2_xsm_20211111_v1_level2.lc)
+
+---
+
 ## Documentation & Code Explaination
 
 Detailed explanation of the code is available in the attached PDF file : [MP_ISRO_Final_T9.pdf](https://github.com/SachinSahu431/Inter_IIT_ISRO/blob/main/frontend/src/static/User_Manual_T9.pdf)
